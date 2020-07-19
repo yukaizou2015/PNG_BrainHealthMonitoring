@@ -1,4 +1,6 @@
-<img src="Intro_DTI_xPatch_flowchart.png" alt="Intro" width="100%"/>
+<img src="img/Intro_DTI_xPatch_flowchart.png" alt="Intro" width="100%"/>
+
+An interactive application was developed to allow users to display the large number of analyses that integrated data from diffusion MRI and head impact sensors (xPatch). The app was created with Shiny and hosted at: https://boilerkai.shinyapps.io/PNG_dMRI_xPatch/
 
 Table of Contents
 =================
@@ -17,7 +19,7 @@ This interactive app presents a model for monitoring the brain health of early-t
 
 In this app, a dataset composed of 45 high school football athletes is used. The DWI data were acquired by a 3T GE MRI scanner (General Electrics, Waukesha, WI), at approximately one month before the competition season (*Pre*) and the second six-week period during the season (*In2*). DTI metrics, including FA, MD, AD, and RD, were computed after pre-processing. A white matter atlas was used to extract the DTI metrics within each ROI, followed by calculating the change from *Pre* to *In2*. Exposure to HAE during the season was recorded using xPatch (X2 Biosystems; Seattle, WA), a head-based sensors that monitor the number and magnitude of HAE. After pre-processing, cumulative HAE were computed with regard to a series of time prior to *In2*, including hits and PTA. An overview is provided by the box-whisker diagram below:
 
-<center> <img src="HAEOverview.png" alt="HAE Overview" width=800/> </center>
+<center> <img src="img/HAEOverview.png" alt="HAE Overview" width=800/> </center>
 
 In the diagram above, the *x*-axis represents the duration of HAE recording prior to *In2*, e.g. `1Wk` refers to "since one week prior to *In2*". Note that `1stHit` is approximately 10 weeks prior to *In2*, which occurred after the DWI scans at *Pre*. The *y*-axis represents cumulative counts (for `Hits`) or cumulative *g* (for `PTA`). As the duration increased, the range of cumulative HAE expanded.
 
@@ -100,6 +102,6 @@ Both scenarios were determined from the analyses in **Threshold** panel. For the
 <a name="acknowledgments"></a>
 ## Acknowledgments
 
-<a href="https://www.purdue.edu/research/png/"><img src="PNG_logo.png" alt="Purdue Neurotrauma Group" width=150 hspace="20"/></a>
-<a href="https://engineering.purdue.edu/MRBEL"><img src="MRBEL_logo.png" alt="Magnetic Resonance Biomedical Engineering Laboratory" width=200 hspace="20"/></a>
-<a href="http://www.thehirrt.com/"><img src="HIRRT_logo.jpg" alt="Human Injury Research and Regenerative Technologies Laboratory" width=400 hspace="20"/></a>
+<a href="https://www.purdue.edu/research/png/"><img src="img/PNG_logo.png" alt="Purdue Neurotrauma Group" width=150 hspace="20"/></a>
+<a href="https://engineering.purdue.edu/MRBEL"><img src="img/MRBEL_Logo_Bo.png" alt="Magnetic Resonance Biomedical Engineering Laboratory" width=200 hspace="20"/></a>
+<a href="http://www.thehirrt.com/"><img src="img/HIRRT_logo.jpg" alt="Human Injury Research and Regenerative Technologies Laboratory" width=400 hspace="20"/></a>
