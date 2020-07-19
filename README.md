@@ -101,5 +101,5 @@ Both scenarios were determined from the analyses in **Threshold** panel. For the
 ## Acknowledgments
 
 <a href="https://www.purdue.edu/research/png/"><img src="img/PNG_logo.png" alt="Purdue Neurotrauma Group" width=150 hspace="20"/></a>
-<a href="https://engineering.purdue.edu/MRBEL"><img src="img/MRBEL_logo.png" alt="Magnetic Resonance Biomedical Engineering Laboratory" width=200 hspace="20"/></a>
+<a href="https://engineering.purdue.edu/MRBEL"><img src="img/MRBEL_Logo_Bo.png" alt="Magnetic Resonance Biomedical Engineering Laboratory" width=200 hspace="20"/></a>
 <a href="http://www.thehirrt.com/"><img src="img/HIRRT_logo.jpg" alt="Human Injury Research and Regenerative Technologies Laboratory" width=400 hspace="20"/></a>
