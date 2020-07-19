@@ -1,5 +1,7 @@
 <img src="img/Intro_DTI_xPatch_flowchart.png" alt="Intro" width="100%"/>
 
+An interactive application was developed to allow users to display the large number of analyses that integrated data from diffusion MRI and head impact sensors (xPatch). The app was created with Shiny and hosted at: https://boilerkai.shinyapps.io/PNG_dMRI_xPatch/
+
 Table of Contents
 =================
  * [Overview](#overview)
